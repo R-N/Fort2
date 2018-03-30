@@ -2,8 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
+Build/
 Library/
+obj/
 *.zip
+*.exe
+*.apk
 
 # Folder config file
 Desktop.ini
