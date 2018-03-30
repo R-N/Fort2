@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraView.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraView.cs" Line="86" Column="15" />
+      <File FileName="Assets\Scripts\ScreenTapHandler.cs" Line="147" Column="23" />
+      <File FileName="Assets\Scripts\MyController.cs" Line="337" Column="40" />
+      <File FileName="Assets\Scripts\CharManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\BigParticleAdd.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TapSphere.cs" Line="36" Column="16" />
+      <File FileName="Assets\Scripts\CharPanelFace.cs" Line="34" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
