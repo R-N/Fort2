@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{6A36FAF7-DF50-9BC8-5244-EEAC5F8F6F96}") = "Fort2", "Assembly-CSharp-firstpass.csproj", "{7B4BC827-859B-C7A5-1978-2AE149A8D89D}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fort2", "Assembly-CSharp-firstpass.csproj", "{7B4BC827-859B-C7A5-1978-2AE149A8D89D}"
 EndProject
-Project("{6A36FAF7-DF50-9BC8-5244-EEAC5F8F6F96}") = "Fort2", "Assembly-CSharp.csproj", "{88D74926-5C76-411D-416E-82FE1B8DEDB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fort2", "Assembly-CSharp.csproj", "{88D74926-5C76-411D-416E-82FE1B8DEDB0}"
 EndProject
-Project("{6A36FAF7-DF50-9BC8-5244-EEAC5F8F6F96}") = "Fort2", "Assembly-CSharp-Editor.csproj", "{A85345C5-8BF1-B6CB-CFA3-D02A29EED2D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fort2", "Assembly-CSharp-Editor.csproj", "{A85345C5-8BF1-B6CB-CFA3-D02A29EED2D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
